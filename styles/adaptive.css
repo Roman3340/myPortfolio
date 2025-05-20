@@ -37,19 +37,19 @@
     .card1,
     .card3,
     .card5,
-    .card7 {
+    .card7,
+    .card9,
+    .card11 {
         grid-column: 1 / 3;
     }
 
     .card2,
     .card4,
     .card6,
-    .card8 {
+    .card8,
+    .card10,
+    .card12 {
         grid-column: 3 / 5;
-    }
-
-    .card9 {
-        grid-column: 2 / 4;
     }
 
     .reviewsDescription {
