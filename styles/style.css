@@ -324,6 +324,19 @@ header {
     grid-column: 1 / 2;
 }
 
+.card6 .stackCardImg {
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card6 .stackCardImg img {
+    width: 180px;
+    height: 180px;
+}
+
 .stackCardImg {
     margin-bottom: 20px;
 }
